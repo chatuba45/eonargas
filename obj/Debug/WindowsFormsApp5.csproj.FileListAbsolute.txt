@@ -1,0 +1,22 @@
+C:\Users\Thales\Desktop\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Thales\Desktop\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Thales\Desktop\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Thales\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Thales\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Thales\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Thales\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Thales\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Thales\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Thales\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Thales\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\Thales\Desktop\e o narga\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Thales\Desktop\e o narga\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Thales\Desktop\e o narga\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Thales\Desktop\e o narga\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Thales\Desktop\e o narga\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Thales\Desktop\e o narga\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\Thales\Desktop\e o narga\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Thales\Desktop\e o narga\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Thales\Desktop\e o narga\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Thales\Desktop\e o narga\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Thales\Desktop\e o narga\obj\Debug\WindowsFormsApp5.pdb
